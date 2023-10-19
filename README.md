@@ -1,0 +1,2 @@
+# ArataBotZ
+Aratabot v1
